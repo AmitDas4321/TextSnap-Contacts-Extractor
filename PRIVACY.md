@@ -89,7 +89,7 @@ We use **Aptabase**, a privacy-friendly analytics service, to collect anonymous 
 Aptabase does not collect personal data, track users across sites, or store personally identifiable information.  
 
 You can read more about Aptabase’s privacy practices here:  
-🔗 [https://aptabase.com/privacy](https://aptabase.com/privacy)
+🔗 [https://aptabase.com/legal/privacy](https://aptabase.com/legal/privacy)
 
 ---
 

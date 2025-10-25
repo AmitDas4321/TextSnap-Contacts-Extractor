@@ -119,5 +119,5 @@ All rights reserved. Unauthorized distribution or resale is strictly prohibited.
 ---
 
 <p align="center">
-  <b>Made with ❤️ by <a href="https://textsnap.in">Amit Das</a></b>
+  <b>Made with ❤️ by <a href="https://amitdas.site">Amit Das</a></b>
 </p>

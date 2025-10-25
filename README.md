@@ -48,27 +48,27 @@ With just a single click, you can export contacts from **All Contacts**, **Group
 ## 🖼️ Screenshots
 
 ### 🟢 All Contacts
-<img src="screenshots/All.png" alt="All Contacts Screenshot" width="800"/>
+<p align="center"><img src="screenshots/All.png" alt="All Contacts Screenshot" width="800"/></p>
 
 ---
 
 ### 🟣 Group Contacts
-<img src="screenshots/Group.png" alt="Group Contacts Screenshot" width="800"/>
+<p align="center"><img src="screenshots/Group.png" alt="Group Contacts Screenshot" width="800"/></p>
 
 ---
 
 ### 🟡 Label Contacts
-<img src="screenshots/Label.png" alt="Label Contacts Screenshot" width="800"/>
+<p align="center"><img src="screenshots/Label.png" alt="Label Contacts Screenshot" width="800"/></p>
 
 ---
 
 ### 🔵 Contact Page
-<img src="screenshots/Contact.png" alt="Contact Screenshot" width="800"/>
+<p align="center"><img src="screenshots/Contact.png" alt="Contact Screenshot" width="800"/></p>
 
 ---
 
 ### 🟠 Chats Contacts
-<img src="screenshots/Chats.png" alt="Chats Screenshot" width="800"/>
+<p align="center"><img src="screenshots/Chats.png" alt="Chats Screenshot" width="800"/></p>
 
 ---
 

@@ -1,5 +1,9 @@
 # Privacy Policy - TextSnap Contacts Extractor
 
+<p align="center">
+  <img src="https://i.ibb.co/g1TtHpx/Untitled-design.png" alt="TextSnap Privacy Policy Banner" width="800">
+</p>
+
 **Effective Date:** October 2025  
 
 TextSnap Contacts Extractor (“the Extension”, “we”, “our”, or “us”) is committed to protecting your privacy and maintaining the trust of our users. This Privacy Policy explains how we collect, use, and protect your data when you use our Chrome Extension, available on the Chrome Web Store.

@@ -22,6 +22,31 @@ With just a single click, you can export contacts from **All Contacts**, **Group
 
 ---
 
+## ⬇️ Download Extension
+
+Get the latest version of **TextSnap Contacts Extractor** from either the **Chrome Web Store** or **GitHub Releases**.
+
+<p align="center">
+  <!-- Chrome Web Store Button -->
+  <a href="https://chromewebstore.google.com/detail/dfoaeiofgilkdiebbdogopgfpkoipjlg/error" target="_blank">
+    <img src="https://img.shields.io/badge/Install%20from%20Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Install from Chrome Web Store">
+  </a>
+  &nbsp;&nbsp;
+  <!-- GitHub Download Button -->
+  <a href="https://github.com/AmitDas4321/TextSnap-Contacts-Extractor/releases/download/v1.0.1/TextSnap-Contacts-Extractor.crx">
+    <img src="https://img.shields.io/badge/⬇️_Download_CRX_File-006C9C?style=for-the-badge&logo=github&logoColor=white" alt="Download CRX File">
+  </a>
+</p>
+
+### 🧭 Manual Installation Steps
+1. Download the `.crx` file from the GitHub link above *(or install directly from Chrome Web Store)*.  
+2. Open `chrome://extensions/` in your Chrome browser.  
+3. Enable **Developer Mode** (top right corner).  
+4. Drag and drop the `.crx` file onto the page.  
+5. The extension will install automatically. ✅
+
+---
+
 ## ⚙️ Features
 
 ✅ Extract contacts from:

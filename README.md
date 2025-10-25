@@ -48,7 +48,7 @@ With just a single click, you can export contacts from **All Contacts**, **Group
 ## 🖼️ Screenshots
 
 ### 🟢 All Contacts
-<img src="All.png" alt="All Contacts Screenshot" width="800"/>
+<img src="https://i.ibb.co/QFnPpS0C/All.png" alt="All Contacts Screenshot" width="800"/>
 
 ---
 

@@ -33,7 +33,7 @@ Get the latest version of **TextSnap Contacts Extractor** from either the **Chro
   </a>
   &nbsp;&nbsp;
   <!-- GitHub Download Button -->
-  <a href="https://github.com/AmitDas4321/TextSnap-Contacts-Extractor/releases/download/v1.0.1/dfoaeiofgilkdiebbdogopgfpkoipjlg.crx">
+  <a href="https://github.com/AmitDas4321/TextSnap-Contacts-Extractor/releases/download/v1.0.1/TextSnap-Contacts-Extractor.crx">
     <img src="https://img.shields.io/badge/⬇️_Download_CRX_File-006C9C?style=for-the-badge&logo=github&logoColor=white" alt="Download CRX File">
   </a>
 </p>

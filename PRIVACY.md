@@ -1,8 +1,8 @@
-# Privacy Policy - TextSnap Contacts Extractor
-
 <p align="center">
   <img src="https://i.ibb.co/g1TtHpx/Untitled-design.png" alt="TextSnap Privacy Policy Banner" width="800">
 </p>
+
+# Privacy Policy - TextSnap Contacts Extractor
 
 **Effective Date:** October 2025  
 

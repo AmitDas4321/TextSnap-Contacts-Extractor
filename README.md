@@ -28,7 +28,7 @@ Get the latest version of **TextSnap Contacts Extractor** from either the **Chro
 
 <p align="center">
   <!-- Chrome Web Store Button -->
-  <a href="https://chromewebstore.google.com/detail/dfoaeiofgilkdiebbdogopgfpkoipjlg/error" target="_blank">
+  <a href="https://chromewebstore.google.com/detail/dfoaeiofgilkdiebbdogopgfpkoipjlg/" target="_blank">
     <img src="https://img.shields.io/badge/Install%20from%20Chrome%20Web%20Store-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Install from Chrome Web Store">
   </a>
   &nbsp;&nbsp;
